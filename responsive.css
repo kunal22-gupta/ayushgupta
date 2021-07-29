@@ -1,0 +1,57 @@
+@media screen and (width:1080px),(height:2340px){
+    ul li a{
+        font-size: 60px;
+        padding: 10px;
+        transition-property: all;
+        transition-duration: .2s;
+    width:100px;
+    height: 30px;
+    text-decoration: none;
+    color: rgb(66, 61, 61);
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+    }
+    .navbar
+{
+margin-top: 50px;
+}
+    #navbtn1
+{
+	left: 120px;
+}
+#navbtn2
+{
+	left: 350px;
+}
+#navbtn3
+{
+	left: 600px;
+	width: 70px;
+}
+.navbar button
+{
+	left: 240px;
+    width: 300px;
+    font-size: 45px;
+    height: 100px;
+    top: 800px;
+}
+#maincontent img{
+	position: relative;
+	top:100px;
+	left: -20px;
+	width: 500px;
+}
+#maincontent header{
+	top: 400px;
+	left: 80px;
+	font-size: 50px;
+}
+#maincontent p{
+	top: 500px;
+	font-size: 30px;
+    left: -150px;
+    width: 800px;
+}
+}
